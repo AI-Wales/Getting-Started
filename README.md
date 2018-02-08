@@ -27,4 +27,5 @@ Useful shortcuts:
 2. alt-Enter to insert a new cell below
 
 ## Checking that everything is working 
-Hop on over to one of the repositories and downlown a notebook, open it through Jupyter and run some cells!
+Hop on over to one of the repositories and download it - this will give you copty of the notebooks and any data and support files in a .zip.  Unzip and open a notebook it through Jupyter and run some cells!
+
