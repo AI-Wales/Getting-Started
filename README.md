@@ -29,3 +29,5 @@ Useful shortcuts:
 ## Checking that everything is working 
 Hop on over to one of the repositories and download it - this will give you copty of the notebooks and any data and support files in a .zip.  Unzip and open a notebook it through Jupyter and run some cells!
 
+We recommend starting with [The Sigmoid Function](https://github.com/AI-Wales/Session2-Intro_to_Classification/blob/master/1-The%20Sigmoid%20Function.ipynb) which is a gently introduction to running Python in Jupyter to model a common activation function; or [Week 1 Poll Data](https://github.com/AI-Wales/Session1-PollData) to see how you can load and display data within a notebook.  
+
