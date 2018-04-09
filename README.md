@@ -9,7 +9,7 @@ Initially we will be looking at __Python__ and using some popular powerful modul
 
 Want an easy way to install of these? Then use [Anaconda](https://www.anaconda.com) - this is a very popular Python Data Science Platform. Download the distribution [here](https://www.anaconda.com/download) and looking for a guide? [View here](https://www.youtube.com/watch?v=YJC6ldI3hWk). We recommend using the Python 3.6 distribution. We have got this working on both Windows and Mac OS without too many issues. 
 
-We also have our very brief [15 minute guide slides](https://docs.google.com/presentation/d/1uRiihZWTigHks6V8KsuW2zz6YFqpMRJRaEwWN94GsMQ/edit?usp=sharing) that look at how to install Anaconda, get the examples and open them in Jupyter.
+We also have our very brief [15 minute guide slides](https://drive.google.com/file/d/1Pgo2wEKQlc-S5sB7KVqtHhAH-v22rj0R/view?usp=sharing) that look at how to install Anaconda, get the examples and open them in Jupyter.
 
 ## Starting with Jupyter
 [Jupyter Notebooks](http://jupyter.org) are a great way to prototype, play and share code. It is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Its ideal for us to start and share ideas, codes and concepts in the group. 
