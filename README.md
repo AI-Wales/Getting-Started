@@ -27,7 +27,7 @@ jupyter notebook
 or simply launch it from Anaconda Navigator.
 ![Anaconda Navigator](https://github.com/AI-Wales/Getting-Started/blob/master/AnacondaNavigator.png)
 
-This will start the Jupyter application and you will see it in your browser. The initial page will look very much like a file manager. Just click on an existing notebook to open it or create a new one to get started. 
+This will start the Jupyter application and you will see it in your browser. The initial page will look very much like a file manager. Just click on an existing notebook to open it or create a new one to get started - notebooks have the .ipynb extension. 
 
 ![Jupyter Navigator](https://github.com/AI-Wales/Getting-Started/blob/master/jupyterlaunch.png)
 
