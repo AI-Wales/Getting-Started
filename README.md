@@ -9,7 +9,7 @@ Initially we will be looking at __Python__ and using some popular powerful modul
 
 Want an easy way to install of these? Then use [Anaconda](https://www.anaconda.com) - this is a very popular Python Data Science Platform. Download the distribution [here](https://www.anaconda.com/download) and looking for a guide? [View here](https://www.youtube.com/watch?v=YJC6ldI3hWk). We recommend using the Python 3.6 distribution. We have got this working on both Windows and Mac OS without too many issues. 
 
-![Anaconda Download](https://github.com/AI-Wales/Getting-Started/blob/master/AnacondaDownload.png)
+![Anaconda Download](https://github.com/AI-Wales/Getting-Started/blob/master/Anacondadownload.png)
 
 We also have our very brief [15 minute guide slides](https://drive.google.com/file/d/1Pgo2wEKQlc-S5sB7KVqtHhAH-v22rj0R/view?usp=sharing) that look at how to install Anaconda, get the examples and open them in Jupyter.
 
@@ -24,7 +24,7 @@ To start it just type the following in the command line:
 jupyter notebook
 ```
 
-or simply start it from Anaconda Navigator.
+or simply launch it from Anaconda Navigator.
 ![Anaconda Navigator](https://github.com/AI-Wales/Getting-Started/blob/master/AnacondaNavigator.png)
 
 This will start the Jupyter application and you will see it in your browser. Just click on an ex=isting notebook to open it or create a new one to get started. 
