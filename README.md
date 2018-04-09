@@ -27,7 +27,9 @@ jupyter notebook
 or simply launch it from Anaconda Navigator.
 ![Anaconda Navigator](https://github.com/AI-Wales/Getting-Started/blob/master/AnacondaNavigator.png)
 
-This will start the Jupyter application and you will see it in your browser. Just click on an ex=isting notebook to open it or create a new one to get started. 
+This will start the Jupyter application and you will see it in your browser. The initial page will look very much like a file manager. Just click on an existing notebook to open it or create a new one to get started. 
+
+![Jupyter Navigator](https://github.com/AI-Wales/Getting-Started/blob/master/jupyterlaunch.png)
 
 A notebook consists a number of cells where you can add code or markdown notes, and running that cell will run the code (and show any outputs) or render your markdown notes. 
 
